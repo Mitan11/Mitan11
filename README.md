@@ -1,8 +1,13 @@
-[![Mitan's GitHub Banner]([./assets/GitHubHeader.png](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjczNTIyNTEsIm5iZiI6MTc2NzM1MTk1MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTAyVDExMDU1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmZjgzYjc5NWMwYzQzMDEzNmFmYjk5M2U1MzljODE2Njc1OGE4ZDRmYTM5N2RjMmI5ZWMxMDI0ZDhhZjNlNTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jMWRv3_YRHiRNFRW2_BfPqgANUFs_VhlaNgtfatNUog))](https://mitanportfolio.vercel.app/)
+[![Mitan's GitHub Banner](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)](https://mitanportfolio.vercel.app/)
 
 # 💫 About Me:
 👋 Hi, I’m Mitan Tank<br>💻 About Me<br>I’m a passionate Computer Science student & aspiring <br>Full-Stack Developer who loves building practical applications <br>and learning new technologies. I enjoy working on real-world projects, <br>exploring backend systems, and creating clean UI/UX experiences.
 
+## 🎓 Education
+- 🎓 **Bachelor of Computer Applications (BCA)**  
+  **Indus University**
+- 🧾 **MSCIT Certification**  
+  **GLS University**
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mitan.tank.1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.mituu._/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mitan-tank-986076247/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/mitantank) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Sharp-Art5987) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MITAN36892768) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mitantank00@gmail.com) 
