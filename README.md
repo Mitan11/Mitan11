@@ -1,4 +1,4 @@
-[![Mitan's GitHub Banner](/assets/github-header-banner)](https://mitanportfolio.vercel.app/)
+[![Mitan's GitHub Banner](./assets/github-header-banner.png)](https://mitanportfolio.vercel.app/)
 
 # 💫 About Me:
 👋 Hi, I’m Mitan Tank<br>💻 About Me<br>I’m a passionate Computer Science student & aspiring <br>Full-Stack Developer who loves building practical applications <br>and learning new technologies. I enjoy working on real-world projects, <br>exploring backend systems, and creating clean UI/UX experiences.
