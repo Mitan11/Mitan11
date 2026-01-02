@@ -1,3 +1,5 @@
+[![Mitan's GitHub Banner]([./assets/GitHubHeader.png](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjczNTIyNTEsIm5iZiI6MTc2NzM1MTk1MSwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAxMDIlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMTAyVDExMDU1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJmZjgzYjc5NWMwYzQzMDEzNmFmYjk5M2U1MzljODE2Njc1OGE4ZDRmYTM5N2RjMmI5ZWMxMDI0ZDhhZjNlNTUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jMWRv3_YRHiRNFRW2_BfPqgANUFs_VhlaNgtfatNUog))](https://mitanportfolio.vercel.app/)
+
 # 💫 About Me:
 👋 Hi, I’m Mitan Tank<br>💻 About Me<br>I’m a passionate Computer Science student & aspiring <br>Full-Stack Developer who loves building practical applications <br>and learning new technologies. I enjoy working on real-world projects, <br>exploring backend systems, and creating clean UI/UX experiences.
 
@@ -20,5 +22,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=mitan11&icon=0&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
