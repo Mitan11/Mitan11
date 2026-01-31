@@ -6,7 +6,7 @@
 ## 🎓 Education
 - 🎓 **Bachelor of Computer Applications (BCA)**  
   **Indus University**
-- 🎓 **Pursuing MSCIT**  
+- 🎓 **MSCIT**  
   **GLS University**
 
 ## 🌐 Socials:
